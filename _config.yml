@@ -40,8 +40,8 @@ social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/shebangbash"}
 - {icon: "ion ion-logo-github", link: "https://github.com/shebangbash"}
 - {icon: "ion ion-logo-twitch", link: "https://twitch.tv/shebangbash"}
-- {icon: "ion ion-logo-branch", link: "https://gitlab.com/shebangbash"}
-- {icon: "ion ion-icon-bug-outline", link: "https://dev.to/shebangbash"}
+- {icon: "ion-icon-branch", link: "https://gitlab.com/shebangbash"}
+- {icon: "ion-icon-bug-outline", link: "https://dev.to/shebangbash"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/shebangbash"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 
