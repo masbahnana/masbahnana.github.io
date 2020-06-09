@@ -3,7 +3,7 @@ layout: post
 title:  Machine Learning e Container
 date:   2018-06-15 18:05:55 +0300
 image:  '/images/container.jpg'
-tags:   Technology
+tags:   [Portugues, Tecnologia]
 ---
 
 O machine learning faz parte da inteligência artificial, muitos casos de uso estão aparecendo, não é a toa que o assunto tem sido bastante citado. Os containers podem oferecer uma ótima maneira de criar e implementar aplicações. O machine learning, o que ele pode fazer pelos aplicativos e como criar utilizando containers.

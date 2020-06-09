@@ -3,7 +3,7 @@ layout: post
 title:  Python vs R?
 date:   2018-06-15 18:05:55 +0300
 image:  '/images/r-vs-python.jpg'
-tags:   Technology
+tags:   [Portugues, Tecnologia]
 ---
 
 ## Python vs R
