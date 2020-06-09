@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  [PT-BR] Big data e IoT, existe relação? Sim! #The plans you refer to will soon be back in our hands
+title:  Big data e IoT, existe relação? Sim!
 date:   2018-06-15 18:05:55 +0300
 image:  '/images/Black Woman Buying Online.jpg'
 tags:   Technology
 ---
+
 ### Mesmo sendo coisas extremamente diferentes, tem sido difícil pensar em uma sem lembrar da outra.
     
 Muitos dispositivos e diversos objetos hoje são conectados a internet, que enviam dados para fins de análise, onde o objetivo principal é, utilizar esses dados para aprender sobre tendências e padrões.
