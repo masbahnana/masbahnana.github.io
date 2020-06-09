@@ -11,7 +11,7 @@ url: "https://shebangbash.dev" # The base hostname & protocol for your site, e.g
 # Author Settings
 author:
   name: Natalia
-  avatar: # '/images/15.jpg'
+  avatar: '/images/profile.jpg'
 
 
 #-------------------------------
@@ -19,7 +19,7 @@ author:
 hero:
   title: #Natalia
   description: #Thoughts, stories and ideas.
-  image: '/images/banner.jpg'
+  image: '/images/capa.jpg'
 
 
 #-------------------------------
@@ -43,7 +43,7 @@ social:
 #- {icon: "ion ion-logo-branch", link: "https://gitlab.com/shebangbash"}
 #- {icon: "ion ion-logo-bug-outline", link: "https://dev.to/shebangbash"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/shebangbash"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/shebangbash"}
 
 
 
