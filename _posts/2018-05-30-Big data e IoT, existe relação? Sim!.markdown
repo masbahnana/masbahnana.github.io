@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Big data e IoT, existe relação? Sim! #The plans you refer to will soon be back in our hands
+title:  [PT-BR] Big data e IoT, existe relação? Sim! #The plans you refer to will soon be back in our hands
 date:   2018-06-15 18:05:55 +0300
 image:  '/images/Black Woman Buying Online.jpg'
 tags:   Technology
