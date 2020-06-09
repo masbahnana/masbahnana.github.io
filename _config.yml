@@ -59,7 +59,7 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 #-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-identifier: https://chimpstatic.com/mcjs-connected/js/users/d9553c4c9b8b4bba4fb3d8262/7c2ba9a6909a0f6ea1ea15940.js # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp-identifier: chimpstatic.com/mcjs-connected/js/users/d9553c4c9b8b4bba4fb3d8262/7c2ba9a6909a0f6ea1ea15940.js # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
