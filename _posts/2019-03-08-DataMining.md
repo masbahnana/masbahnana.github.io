@@ -5,7 +5,6 @@ date:   2018-06-15 18:05:55 +0300
 image:  '/images/minig.png'
 tags:   [Portugues, Tecnologia]
 ---
-<<<<<<< HEAD
 
 Esta técnica utiliza algoritmos específicos, análise estatística, inteligência artificial e sistemas de banco de dados. O objetivo é extrair informações de grandes conjuntos de dados e convertê-los em uma estrutura compreensível para uso futuro.
 
@@ -48,5 +47,3 @@ Grande volume de dados para as atividades de mineração profunda que dizer que 
 Tamanho de bancos de dados x distribuição dos dados: atividades de mineração devem ocorrer em paralelo, com algoritmos de mineração analisando conjuntos menores a serem recombinados.
 
 Em relação ao custo da mineração de dados podem chegar facilmente a milhares de reais ou até dólares. 
-=======
->>>>>>> 8c47ca253679f12294198f20032f7c31d3c182de
