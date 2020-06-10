@@ -16,7 +16,7 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 Obs: lembrem-se eu sou uma pessoa autista
 
-Você pode ver todos os meus trabalhos com a munidade de TI clicando [aqui](https://github.com/shebangbash/Community-work/blob/master/README_PR_BR.md)
+Você pode ver todos os meus trabalhos com a comunidade de TI clicando [aqui](https://github.com/shebangbash/Community-work/blob/master/README_PR_BR.md)
 
 ***
 
