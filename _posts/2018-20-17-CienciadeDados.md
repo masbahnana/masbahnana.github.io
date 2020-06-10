@@ -2,9 +2,10 @@
 layout: post
 title:  Python para ciência de dados em 5 passos
 date:   2018-06-15 18:05:55 +0300
-image:  '/images/datapy.jpg'
+image:  '/images/datapy.png'
 tags:   [Portugues, Tecnologia]
 ---
+<<<<<<< HEAD
 
 Vamos dar uma olhada rápida nos conhecimentos básicos do uso do Python voltado para Big Data e Ciência de Dados, e as bibliotecas mais utilizadas.
 
@@ -47,3 +48,5 @@ Frequente as comunidades, a comunidade do Python no Brasil é uma das mais forte
 E não esqueça: pense pequeno, comece pequeno e cresça rápido. 
 
 ***
+=======
+>>>>>>> 8c47ca253679f12294198f20032f7c31d3c182de
