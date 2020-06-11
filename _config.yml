@@ -38,13 +38,13 @@ contact:
 # Other icons can be found at https://ionicons.com
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/shebangbash"}
-- {icon: "ion-logo-github", link: "https://github.com/shebangbash"}
+- {icon: "ion-logo-octocat", link: "https://github.com/shebangbash"}
 - {icon: "ion-logo-twitch", link: "https://twitch.tv/shebangbash"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/channel/UCSyisFesQxR625ofzuemgxA?view_as=subscriber"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/nraythz/"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com/shebangbash"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com/shebangbash"}
-- {icon: "ion-icon-git-branch-outline", link: "https://gitlab.com/shebangbash"}
+#- {icon: "ion-icon-git-branch-outline", link: "https://gitlab.com/shebangbash"}
 
 
 
