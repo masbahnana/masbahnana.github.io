@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Community Work
-permalink: /styleguide/
-image: '/images/profile.jpeg'
+permalink: /community/
+image: '/images/capa.jpg'
 ---
