@@ -12,10 +12,12 @@ Engish version [here](https://github.com/shebangbash/Community-work/blob/master/
 ![Alt](/images/240997_m1z07ACc.png)
 
 ## Meus interesses 
+
 Meu interesse principal é o compartilhamento de conhecimento! 
 Minhas areas de interesse são infraestrutura (IaaC), SRE, Automação, Cultura DevOps, Engenharia de Dados, Python, Ruby e Rust. Também adoro falar sobre diversidade, inclusão e acessibilidade.
 
 ## Biografia 
+
 Natalia trabalha com infraestrutura desde 2009, hoje trabalha como Quality Engineer na Red Hat, tem vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
 
 Tenta ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
@@ -125,6 +127,7 @@ Abril/2019 | Coordenadora da trilha de Machine Learning | The Developers Confere
 
 
 ## Reconhecimentos
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Dez/2019 | TDC Rock Star | The Developers Conference | Porto Alegre/RS
@@ -163,11 +166,13 @@ Dez/2018 | Carreira BigData e DevOps | Uniritter | Porto Alegre/RS
 
 
 ## Outras participações
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2018 | Voluntária | The Developers Conference | Florianópolis/SC
 
 ## Coordenações
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
