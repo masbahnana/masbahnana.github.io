@@ -31,8 +31,6 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 *Obs: lembrem-se eu sou uma pessoa autista*
 
 ---
-<iframe src=“https://calendar.google.com/calendar/embed?src=nraythz%40gmail.com&ctz=Europe%2FDublin” style=“border: 0" width=“800” height=“600" frameborder=“0” scrolling=“no”></iframe>
----
 
 ## Live Codings 
 
