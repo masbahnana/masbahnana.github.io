@@ -31,6 +31,8 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 *Obs: lembrem-se eu sou uma pessoa autista*
 
 ---
+<iframe src=“https://calendar.google.com/calendar/embed?src=nraythz%40gmail.com&ctz=Europe%2FDublin” style=“border: 0" width=“800” height=“600" frameborder=“0” scrolling=“no”></iframe>
+---
 
 ## Live Codings 
 
@@ -47,8 +49,6 @@ Você também pode me acompanhar realizando live codings no canais abaixo:
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
-Jul/2020 | Escalando a Arquitetura de Produto | Product Master Class | Online
 
 ## Palestras
 
@@ -56,6 +56,8 @@ Jul/2020 | Escalando a Arquitetura de Produto | Product Master Class | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Aug/2020 | Molecule | JAC | Online
+Jul/2020 | Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
 Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
