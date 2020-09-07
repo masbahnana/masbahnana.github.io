@@ -34,12 +34,12 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 ## Projetos contínuos 
 
-Data | Assunto | Descrição
---- | --- | ---
-Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
-2020 | Mentoria | Mentorando duas mulheres negras
-2020 | Mentoria | Projeto Mais1Code
-2020 | Estrutura | Equipe estrututal do projeto EducaTransForma
+Data | Assunto | Descrição | Local
+--- | --- | --- | --- 
+Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Brasil
+2020 | Mentoria | Mentorando duas mulheres negras | Brasil
+2020 | Mentoria | Projeto Mais1Code | Brasil
+2020 | Estrutura | Equipe estrututal do projeto EducaTransForma | Brasil
 
 # 2020 
 
