@@ -169,11 +169,13 @@ Dez/2018 | Carreira BigData e DevOps | Uniritter | Porto Alegre/RS
 
 
 ## Outras participações
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2018 | Voluntária | The Developers Conference | Florianópolis/SC
 
 ## Coordenações
+
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
