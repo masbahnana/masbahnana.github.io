@@ -1,25 +1,23 @@
 ---
 layout: page
-title: Community Work
+title: Contribuições
 permalink: /community/
 image: '/images/capa.jpg'
 ---
 
 ---
 
-#### Engish version [here](https://github.com/shebangbash/Community-work/blob/master/README_EN_US.md)
+#### Engish version [here](https://github.com/shebangbash/Community-work/blob/master/English.md)
 
 ---
 
 ![Alt](/images/240997_m1z07ACc.png)
 
 ## Meus interesses 
-
 Meu interesse principal é o compartilhamento de conhecimento! 
 Minhas areas de interesse são infraestrutura (IaaC), SRE, Automação, Cultura DevOps, Engenharia de Dados, Python, Ruby e Rust. Também adoro falar sobre diversidade, inclusão e acessibilidade.
 
 ## Biografia 
-
 Natalia trabalha com infraestrutura desde 2009, hoje trabalha como Quality Engineer na Red Hat, tem vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
 
 Tenta ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
@@ -30,16 +28,17 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 *Obs: lembrem-se eu sou uma pessoa autista*
 
----
-
-## Live Codings 
-
-Você também pode me acompanhar realizando live codings no canais abaixo:
-
+## Conteúdo Online
 -   [Twitch](https://www.twitch.tv/shebangbash)
 -   [Youtube](https://www.youtube.com/c/shebangbash) 
 
----
+## Projetos contínuos 
+Data | Assunto | Descrição
+--- | --- | ---
+Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+2020 | Mentoria | Mentorando duas mulheres negras
+2020 | Mentoria | Projeto Mais1Code
+2020 | Estrutura | Equipe estrututal do projeto EducaTransForma
 
 # 2020 
 
@@ -47,6 +46,9 @@ Você também pode me acompanhar realizando live codings no canais abaixo:
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Out/2020 | - | - | Online
+Out/2020 | - | - | Online
+Dez/2020 | - | - | Online
 
 ## Palestras
 
@@ -54,8 +56,8 @@ Data | Assunto | Evento/Meetup | Local
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Aug/2020 | Molecule | JAC | Online
-Jul/2020 | Ansible | +Dev | Online
+Set/2020 | Molecule | JAC | Online
+Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
 Maio/2020 | Machine Learning com Docker e Flask | FiqueEmCasaConf | [Online](https://www.youtube.com/watch?v=J5E59YgbyYo&t=3s) 
 Maio/2020 | Python e Load Balancers | Nerdzão, Nerdgirls | [Online](https://www.youtube.com/watch?v=CqLixrRrKZI)
@@ -77,8 +79,7 @@ Maio/2020 | Como é trabalhar com Infraestrutura na Irlanda | Passaporte Nerd | 
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Atualmente | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
-Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+2020 | Coordenadora da Comunidade | PyData Porto Alegre | Porto Alegre/RS
 
 # 2019
 
@@ -129,7 +130,6 @@ Abril/2019 | Coordenadora da trilha de Machine Learning | The Developers Confere
 
 
 ## Reconhecimentos
-
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Dez/2019 | TDC Rock Star | The Developers Conference | Porto Alegre/RS
@@ -168,13 +168,11 @@ Dez/2018 | Carreira BigData e DevOps | Uniritter | Porto Alegre/RS
 
 
 ## Outras participações
-
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2018 | Voluntária | The Developers Conference | Florianópolis/SC
 
 ## Coordenações
-
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
