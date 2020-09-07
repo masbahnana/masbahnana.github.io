@@ -33,6 +33,7 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 -   [Youtube](https://www.youtube.com/c/shebangbash) 
 
 ## Projetos contínuos 
+
 Data | Assunto | Descrição
 --- | --- | ---
 Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
