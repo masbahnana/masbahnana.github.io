@@ -47,13 +47,13 @@ Diminuir as distrações como o celular e também manter o seu ambiente de traba
 - **Notion**: acho ele excelente para organizar os posts no site, também utilizo o Notion para planejar os conteúdos que compartilho.
 ![notion](/images/notion.png)
 
-- **Focus to-do**: eu tentei utilizar o todoist mas, o focus todo além de conseguir colocar as minhas tarefas (faculdade, cursos, dia a dia) ele também tem um pomodoro e gera um gráfico sobre quanto tempo eu consegui me dedicar para as tarefas.
+- **Focus to-do**: eu tentei utilizar o todoist mas o focus todo além de conseguir colocar as minhas tarefas (faculdade, cursos, dia a dia) ele também tem um pomodoro e gera um gráfico sobre quanto tempo eu consegui me dedicar para as tarefas.
 ![focus](/images/focus.png)
 
 - **Google Calendar:** centralizo todos os meus calendários (pessoal e trabalho) em um calendário que é a ferramenta que no fim mais me ajuda durante o dia a dia.
 ![calendar](/images/Calendar.png)
 
 - **Calendly:** utilizo a versão free do calendly, onde eu ponho os meus horários livres para poder ajudar as pessoas que eu mentoro e ajudo de alguma forma, ele gera um link com esses horários disponíveis e as pessoas podem agendar horários ali e vai direto para o meu google calendar.
-![calendly](/images/calendly.pgn)
+![calendly](/images/calendly.png)
 
 Então é dessa forma e com essas ferramentas que eu consigo gerenciar o meu dia a dia, espero que eu tenha conseguido mostrar para vocês e também espero que ajude vocês de alguma forma. E qualquer dúvida ou sugestão é só entrar em contato.
