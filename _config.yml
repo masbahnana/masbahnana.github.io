@@ -51,8 +51,6 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-layout: default
-comments: true
 disqus-identifier: shebangbash # Add your shortname for Disqus Comment. For example mr-brown
 
 
