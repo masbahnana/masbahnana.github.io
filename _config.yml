@@ -53,7 +53,7 @@ social:
 # Comment Section (Disqus)
 layout: default
 comments: true
-disqus-identifier: nataliaraythz # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: shebangbash # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
