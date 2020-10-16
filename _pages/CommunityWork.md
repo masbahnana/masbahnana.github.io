@@ -36,7 +36,7 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 Data | Assunto | Descrição | Local
 --- | --- | --- | --- 
-Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Brasil
+2020 | Criadora e Coordenadora do Evento | Tech&&Beer | Brasil
 2020 | Mentoria | Mentorando duas mulheres negras | Brasil
 2020 | Mentoria | Projeto Mais1Code | Brasil
 2020 | Estrutura | Equipe estrututal do projeto EducaTransForma | Brasil
@@ -47,8 +47,8 @@ Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Brasil
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Out/2020 | - | - | Online
-Out/2020 | - | - | Online
+Out/2020 | Cypress é o novo Selenium? | BrazilJS on the Road | Online
+Out/2020 | Molecule e QE | DevParaná | Online
 Dez/2020 | - | - | Online
 
 ## Palestras
@@ -57,6 +57,7 @@ Dez/2020 | - | - | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Out/2020 | Molecule e QE | AgileBrazil | Online
 Set/2020 | Molecule | JAC | Online
 Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
