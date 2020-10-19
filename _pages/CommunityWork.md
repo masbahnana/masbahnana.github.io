@@ -28,9 +28,12 @@ Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D
 
 *Obs: lembrem-se eu sou uma pessoa autista*
 
+## Mini Bio
+Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área. 
+
 ## Conteúdo Online
 -   [Twitch](https://www.twitch.tv/shebangbash)
--   [Youtube](https://www.youtube.com/c/shebangbash) 
+-   [Youtube](https://www.youtube.com/c/shebangbash)
 
 ## Projetos contínuos 
 
@@ -47,9 +50,8 @@ Data | Assunto | Descrição | Local
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Out/2020 | Cypress é o novo Selenium? | BrazilJS on the Road | Online
 Out/2020 | Molecule e QE | DevParaná | Online
-Dez/2020 | - | - | Online
+
 
 ## Palestras
 
@@ -57,6 +59,7 @@ Dez/2020 | - | - | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
+Out/2020 | Cypress é o novo Selenium? | BrazilJS on the Road | Online
 Out/2020 | Molecule e QE | AgileBrazil | Online
 Set/2020 | Molecule | JAC | Online
 Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
