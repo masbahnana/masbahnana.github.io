@@ -29,7 +29,7 @@ Natália Raythz é uma Brasileira que mora na Irlanda e profissional de TI com b
 
 Sempre me aprofundando em aprender mais sobre SRE, testes de software fora do padrão da piramide dos testes e automatizando tudo o que pode. 
 
- Sempre tentando ser o mais ativa possível na comunidade como palestrante ou ministrando workshops, mas hoje o principal foco dela é mentorar pessoas subrepresentadas. Hoje Natalia é mentora em dois projetos o Imoye que é focado em mentorar mulheres negras e o +1Code que é focado para inclusão de pessoas periféricas na área de tecnologia. 
+Sempre tentando ser o mais ativa possível na comunidade como palestrante ou ministrando workshops, mas hoje o principal foco dela é mentorar pessoas subrepresentadas. Hoje Natalia é mentora em dois projetos o Imoye que é focado em mentorar mulheres negras e o +1Code que é focado para inclusão de pessoas periféricas na área de tecnologia. 
 
 No tempo livre, Natalia gosta de desenhar, ler e ir observar a Marina (Dun Laoghaire/Irlanda).
 
@@ -51,6 +51,7 @@ Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar c
 
 
 ## Projetos contínuos 
+
 Data | Assunto | Descrição
 --- | --- | ---
 Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
