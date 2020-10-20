@@ -37,25 +37,9 @@ No tempo livre, Natalia gosta de desenhar, ler e ir observar a Marina (Dun Laogh
 
 ***
 
-### [EN-US]
+#### Engish version [here](https://github.com/shebangbash/Community-work/blob/master/English.md)
 
 ## What will you see on this site?
 - Tutorials
 - Short articles about some technology
 - Product Reviews
-
-## My interests
-My main interest is knowledge sharing!
-My areas of interest are infrastructure (IaaC), SRE, Automation, DevOps Culture, Data Engineering, Python, Ruby and Rust. I also love to talk about diversity, inclusion and accessibility.
-
-## Biography
-Natalia has been working with infrastructure since 2009, today she works as a Quality Engineer at Red Hat, she has extensive experience acting as SysAdmin. Former student of physics and today studying in Software Engineering and Architecture.
-
-Try to be as active as possible in the development communities and always helping open source projects, especially when they need translation.
-
-She also mentors other black women in the career development field and maintains a wonderful event called Tech && Beer.
-
-In love with cats, pizza, beer and her husband. : D
-
-* Note: remember I'm an autistic person *
-***
