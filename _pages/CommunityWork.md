@@ -11,38 +11,52 @@ image: '/images/capa.jpg'
 
 ---
 
-![Alt](/images/240997_m1z07ACc.png)
+Oi! Eu sou Natalia Raythz e nesse repositório você encontra todas as informações sobre minhas palestras públicas (passadas, presentes e futuras).
 
-## Meus interesses 
-Meu interesse principal é o compartilhamento de conhecimento! 
-Minhas areas de interesse são infraestrutura (IaaC), SRE, Automação, Cultura DevOps, Engenharia de Dados, Python, Ruby e Rust. Também adoro falar sobre diversidade, inclusão e acessibilidade.
+## Quer me convidar para a sua conferencia?
 
-## Biografia 
-Natalia trabalha com infraestrutura desde 2009, hoje trabalha como Quality Engineer na Red Hat, tem vasta experiencia atuando como SysAdmin. Ex estudante de física e hoje se aprofundando em estudar Engenharia e Arquitetura de Software. 
+Minhas areas de interesse são testes de software, infraestutura (IaaS), claud computing, SRE, desenvolvimento nas linguagens Python e Ruby, engenharia de qualidade e de software. Eu também falo sobre diversidade, acessibilidade e inclusão. 
 
-Tenta ser o mais ativa possível nas comunidades de desenvolvimento e sempre ajudando projetos open source, principalmente quando necessitam de tradução. 
+Para entrar em contato você pode ir até o final da página e entrar em contato ou me enviar um e-mail (natr@hey.com) contendo as informações sobre a conferencia. 
 
-Também presta mentoria para outras mulheres negras na área de desenvolvimento de carreira e mantem o um evento maravilhoso chamado Tech&&Beer. 
+Abaixo segue a minha biografia em diversos formatos, foto e todas as minhas palestras. 
 
-Apaixonada por gatos, pizza, cerveja e pelo maridinho. :D 
+*Obs: eu sou uma pessoa autista*
 
-*Obs: lembrem-se eu sou uma pessoa autista*
+## Biografia
 
-## Mini Bio
-Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área. 
+Natália Raythz é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. 
 
-## Conteúdo Online
+Sempre me aprofundando em aprender mais sobre SRE, testes de software fora do padrão da piramide dos testes e automatizando tudo o que pode. 
+
+ Sempre tentando ser o mais ativa possível na comunidade como palestrante ou ministrando workshops, mas hoje o principal foco dela é mentorar pessoas subrepresentadas. Hoje Natalia é mentora em dois projetos o Imoye que é focado em mentorar mulheres negras e o +1Code que é focado para inclusão de pessoas periféricas na área de tecnologia. 
+
+No tempo livre, Natalia gosta de desenhar, ler e ir observar a Marina (Dun Laoghaire/Irlanda).
+
+## Minibio
+
+Natália Raythz é uma Brasileira que mora na Irlanda e profissional de TI com background em infraestrutura e desenvolvimento, atualmente está trabalhando como pessoa Engenheira de Qualidade de Software na Red Hat. Sempre me aprofundando em aprender mais sobre SRE, testes de software fora do padrão da piramide dos testes e automatizando tudo o que pode. 
+
+## Bio para um tweet
+
+Natalia trabalha com infraestrutura desde 2009 e realizou o sonho de trabalhar com Open Source, a RedHat. Pessoa apaixonada por tecnologia e por tudo o que ela move Natalia também foca em mentorar pessoas negras na área.
+
+### Photo
+
+![foto](/images/banner.jpg)
+
+## Conteudo Online (em construção)
 -   [Twitch](https://www.twitch.tv/shebangbash)
 -   [Youtube](https://www.youtube.com/c/shebangbash)
 
-## Projetos contínuos 
 
-Data | Assunto | Descrição | Local
---- | --- | --- | --- 
-2020 | Criadora e Coordenadora do Evento | Tech&&Beer | Brasil
-2020 | Mentoria | Mentorando duas mulheres negras | Brasil
-2020 | Mentoria | Projeto Mais1Code | Brasil
-2020 | Estrutura | Equipe estrututal do projeto EducaTransForma | Brasil
+## Projetos contínuos 
+Data | Assunto | Descrição
+--- | --- | ---
+Atual | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
+2020 | Mentoria | Mentorando duas mulheres negras
+2020 | Mentoria | Projeto Mais1Code
+2020 | Estrutura | Equipe estrututal do projeto EducaTransForma
 
 # 2020 
 
@@ -50,8 +64,10 @@ Data | Assunto | Descrição | Local
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Out/2020 | Molecule e QE | DevParaná | Online
-
+Out/2020 | Cypress is the new Selenium? | DevParaná | Online
+Nov/2020 | Qualidade de Software e o Molecule | Python Brasil | Online
+Nov/2020 | Tutorial Python e Load Balancers | Python Brasil | Online
+Nov/2020 | Sem titulo ainda | FOSSday RS | Online
 
 ## Palestras
 
@@ -59,8 +75,8 @@ Out/2020 | Molecule e QE | DevParaná | Online
 
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
-Out/2020 | Cypress é o novo Selenium? | BrazilJS on the Road | Online
-Out/2020 | Molecule e QE | AgileBrazil | Online
+Out/2020 | Cypress é o novo Selenium? | BrazilJS On The Road | Brasil
+Out/2020 | Teste de Infraestrutura | Agile Testers | Online
 Set/2020 | Molecule | JAC | Online
 Jul/2020 | Mini Tutotial de Ansible | +Dev | Online
 Abril/2020 | DevOps e Acessibilidade | Meetup Docker RJ | [Online](https://www.youtube.com/watch?v=7wGm_mL_fbA)
@@ -173,13 +189,11 @@ Dez/2018 | Carreira BigData e DevOps | Uniritter | Porto Alegre/RS
 
 
 ## Outras participações
-
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Abril/2018 | Voluntária | The Developers Conference | Florianópolis/SC
 
 ## Coordenações
-
 Data | Assunto | Evento/Meetup | Local
 --- | --- | --- | ---
 Atualmente | Criadora e Coordenadora do Evento | Tech&&Beer | Porto Alegre/RS
