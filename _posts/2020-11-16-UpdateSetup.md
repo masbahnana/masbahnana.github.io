@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Update Setup
-date:   2020-01-16 18:05:55 +0300
+date:   2020-11-16 18:05:55 +0300
 image:  '/images/setupao.jpeg'
 tags:   [Portugues, Tecnologia]
 ---
