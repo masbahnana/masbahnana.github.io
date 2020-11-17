@@ -4,7 +4,7 @@ title: Nat
 logo: '/images/logo-canal1.png' # You can add own logo. For example '/images/logo.png'.
 description: # Aditu is a stylish and modern dark theme with a clean and unique design.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://shebangbash.dev" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://shebangbash.github.io" # "https://shebangbash.dev" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -97,3 +97,5 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
+
+theme: jekyll-theme-cayman
