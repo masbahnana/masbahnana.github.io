@@ -1,10 +1,10 @@
 #-------------------------------
 # General Site Settings
-title: SheBangBash
+title: mas,bah! Nana
 logo: '/images/logo-canal1.png' # You can add own logo. For example '/images/logo.png'.
 description: # Aditu is a stylish and modern dark theme with a clean and unique design.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "https://shebangbash.github.io" # "https://shebangbash.dev" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://masbahnana.github.io" # "https://shebangbash.dev" # The base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
@@ -37,14 +37,13 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/shebangbash"}
-- {icon: "ion-logo-octocat", link: "https://github.com/shebangbash"}
-- {icon: "ion-logo-twitch", link: "https://twitch.tv/shebangbash"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/shebangbash"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/masbahnana"}
+- {icon: "ion-logo-octocat", link: "https://github.com/masbahnana"}
+- {icon: "ion-logo-twitch", link: "https://twitch.tv/masbahnana"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/c/masbahnana"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/nraythz/"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com/shebangbash"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com/shebangbash"}
-- {icon: "logo-gitlab", color: white, link: "https://gitlab.com/shebangbash"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/masbahnana"}
+- {icon: "logo-gitlab", color: white, link: "https://gitlab.com/masbahnana"}
 
 
 
